@@ -17,7 +17,7 @@ During the elaboration of this project, the main objective was to formulate comp
 
 ## Main Results
 ### Instrumental Response Curve
-<img src="github.com/angelaabad/BSc-External-Internship-Introduction-to-Observational-Spectroscopy/blob/main/Images/Final-Instrumental-Response-Curve.png" width="500" />
+<img src="https://github.com/angelaabad/BSc-External-Internship-Introduction-to-Observational-Spectroscopy/blob/main/Images/Final-Instrumental-Response-Curve.png" width="500" />
 
 ### Orion and Ring Nebulae Spectra (with Background Contribution)
 - Orion:
