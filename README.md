@@ -16,3 +16,17 @@ Durante la elaboración de esta práctica se establece como objetivo principal l
 During the elaboration of this project, the main objective was to formulate computational codes via Python in order to analyze the data belonging to astronomical objects of interest such as nebulae and stars, particularizing the study of the Orion Nebula and the Ring Nebula, with two calibration stars each (Rigel and Betelgeuse for Orion and Sulafat and HD-176896 for the Ring). The data with which we work below were collected during the observation carried out on November 10 at the Astronomical Observatory of the Autonomous University of Madrid. We begin by reducing the raw data obtained to later calibrate the flux and wavelength of the spectra of the stars selected for each nebula in order to generate the instrumental response curve associated with the electronic device used. From this, the spectra of the final nebulae are determined. With the latter, and eliminating the continuous contribution to the spectrum, the characteristic lines of each nebula are finally obtained, which represents an initiation into the technique of observational spectroscopy of celestial bodies.
 
 ## Main Results
+### Instrumental Response Curve
+<img src="github.com/angelaabad/BSc-External-Internship-Introduction-to-Observational-Spectroscopy/blob/main/Images/Final-Instrumental-Response-Curve.png" width="500" />
+
+### Orion and Ring Nebulae Spectra (with Background Contribution)
+- Orion:
+<img src="https://github.com/angelaabad/BSc-External-Internship-Introduction-to-Observational-Spectroscopy/blob/main/Images/Orion-Nebula-Spectra-with-Background.png" width="450" />
+
+- Ring:
+<img src="https://github.com/angelaabad/BSc-External-Internship-Introduction-to-Observational-Spectroscopy/blob/main/Images/Ring-Nebula-Spectra-with-Background.png" width="450" />
+
+### Orion and Ring Nebulae Spectra (without Background Contribution)
+<img src="https://github.com/angelaabad/BSc-External-Internship-Introduction-to-Observational-Spectroscopy/blob/main/Images/Final-Nebulae-Spectra.png" width="450" />
+
+
